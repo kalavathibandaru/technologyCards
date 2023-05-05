@@ -1,0 +1,74 @@
+.card-1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  border-top: 5px solid #ff4f64;
+  width: 325px;
+  margin-right: 20px;
+  margin-bottom: 50px;
+  border-radius: 10px;
+  padding: 10px;
+  background-color: #ffffff;
+}
+
+.card-2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  border-top: 5px solid #00a8e7;
+  width: 325px;
+  margin-right: 50px;
+  margin-bottom: 50px;
+  border-radius: 10px;
+  padding: 10px;
+  background-color: #ffffff;
+}
+
+.card-3 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  border-top: 5px solid #44c4a1;
+  width: 325px;
+  margin-right: 50px;
+  margin-bottom: 50px;
+  border-radius: 10px;
+  padding: 10px;
+  background-color: #ffffff;
+}
+
+.card-4 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  border-top: 5px solid #fcc200;
+  width: 325px;
+  margin-right: 50px;
+  margin-bottom: 50px;
+  border-radius: 10px;
+  padding: 10px;
+  background-color: #ffffff;
+}
+
+.image {
+  height: 80px;
+  width: 80px;
+  align-self: flex-end;
+}
+.sub-heading {
+  font-family: 'Roboto';
+  color: black;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.sub-paragraph {
+  font-family: 'Roboto';
+  color: #64748b;
+  font-size: 15px;
+  font-weight: normal;
+}
